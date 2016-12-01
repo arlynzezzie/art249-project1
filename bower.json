@@ -1,0 +1,21 @@
+{
+  "name": "Project 1 test2",
+  "description": "Project with Gulp, Sass, Live Reload, Foundation",
+  "main": "index.js",
+  "authors": [
+    "Arlyn Ramos"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "^5.5.3"
+  }
+}
