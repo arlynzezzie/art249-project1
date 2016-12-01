@@ -1,0 +1,11 @@
+{
+  "name": "Project 1 test2",
+  "version": "1.0.0",
+  "description": "Project with Gulp, Sass, Live Reload, Foundation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arlyn Ramos",
+  "license": "ISC"
+}
