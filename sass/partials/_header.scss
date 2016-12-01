@@ -1,0 +1,38 @@
+.main-menu li {
+	float:left;
+	margin-right: 15px;
+}
+
+.top-bar.main-menu {
+	height: 80px;
+	background: white;
+	-webkit-filter: drop-shadow(0 1px 5px rgba(0,0,0,.1));
+	-moz-filter: drop-shadow(0 1px 5px rgba(0,0,0,.1));
+	-ms-filter: drop-shadow(0 1px 5px rgba(0,0,0,.1));
+	-o-filter: drop-shadow(0 1px 5px rgba(0,0,0,.1));
+	filter: drop-shadow(0 1px 5px rgba(0,0,0,.1));
+}
+
+.top-bar.main-menu .top-bar-left {
+	display: block;
+    height: 100%;
+    width: 100%;
+    padding: 20px 15px;
+}
+
+.top-bar.main-menu .logo {
+	background: url('../images/bf_logo.png') no-repeat 0 0;
+	width: 265px;
+	height: 0px;
+	padding-top: 38px;
+	display: block;
+	overflow: hidden;
+	margin-right: 30px;
+}
+
+
+.top-bar ul li {
+	text-transform: uppercase;
+	font-size: 0.685em;
+	letter-spacing: 0.2em;
+}

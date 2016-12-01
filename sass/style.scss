@@ -1,15 +1,33 @@
 @import "partials/settings";
 @import "partials/foundation";
+@import "partials/structure";
 @import "partials/header";
+@import "partials/hero";
+@import "partials/footer";
 
 /* Variables */
-$dark-color : #333333;
+$primary-color: #25aa9f; /* turquoise */
 
 body {
   background: white url('/images/bg_pattern_geo.png') repeat 0 0;
   background: white;
+  background: url(images/bg_pattern_geo.png);
 }
 
 h1 {
     color: #F1F1F1;
+}
+
+
+
+/* panels */
+
+.news-panel {
+	background-color: #637484;
+}
+
+/*ad*/
+
+.ad {
+	height: 120px
 }
