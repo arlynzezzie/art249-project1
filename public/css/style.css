@@ -4290,6 +4290,12 @@ main {
   margin-right: 30px;
   float: left; }
 
+.top-bar.main-menu .menu {
+  display: block;
+  height: 100%;
+  width: 100%;
+  padding-top: 10px; }
+
 .top-bar ul li {
   text-transform: uppercase;
   font-size: 0.685em;
