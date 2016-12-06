@@ -1,6 +1,11 @@
+h1, h2, h3, h4, h5 {
+	color: #424e51; /* charcoal */
+}
+
 .date-time {
 	color: #809daf;
 	font-size: .725em;
+	margin: .725em 0 .625em;
 }
 
 .tag.location {
@@ -12,3 +17,4 @@
 .events-panel .post h4 {
 	font-size: 1.25em;
 }
+

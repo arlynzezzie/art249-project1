@@ -4250,9 +4250,14 @@ main {
 .panel {
   padding: 20px 25px; }
 
+h1, h2, h3, h4, h5 {
+  color: #424e51;
+  /* charcoal */ }
+
 .date-time {
   color: #809daf;
-  font-size: .725em; }
+  font-size: .725em;
+  margin: .725em 0 .625em; }
 
 .tag.location {
   font-size: .725em; }
