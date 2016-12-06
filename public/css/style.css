@@ -4320,6 +4320,17 @@ footer {
   background: white;
   width: 100%; }
 
+.button {
+  font-size: .785em;
+  text-transform: uppercase;
+  letter-spacing: 0.15em; }
+
+.tag {
+  font-size: .825em; }
+
+.hero .tag {
+  color: white; }
+
 /* Variables */
 /* turquoise */
 body {
