@@ -4250,6 +4250,17 @@ main {
 .panel {
   padding: 20px 25px; }
 
+.date-time {
+  color: #809daf;
+  font-size: .725em; }
+
+.tag.location {
+  font-size: .725em; }
+
+/* Homepage Text */
+.events-panel .post h4 {
+  font-size: 1.25em; }
+
 .main-menu li {
   float: left;
   margin-right: 15px; }
@@ -4329,6 +4340,9 @@ footer {
   font-size: .825em; }
 
 .hero .tag {
+  color: white; }
+
+.news-panel a {
   color: white; }
 
 /* Variables */
